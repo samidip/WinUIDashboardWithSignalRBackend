@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="WinUIDashboard.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinUIDashboard"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:telerikGrid="using:Telerik.UI.Xaml.Controls.Grid"
+    xmlns:telerik="using:Telerik.UI.Xaml.Controls.DataVisualization"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Orientation="Vertical" Margin="30">
+        <telerik:RadRadialGauge x:Name="RadialGauge" LabelStep="20" TickStep="10" MaxValue="120" LabelRadiusScale="1.10" Width="400" Height="200">
+            <telerik:RadRadialGauge.DataContext>
+                <local:DummyViewModel/>
+            </telerik:RadRadialGauge.DataContext>
+            <telerik:ArrowGaugeIndicator Brush="Blue" Thickness="3" ArrowTailRadius="2" Value="{Binding GaugeValue}"/>
+            <telerik:SegmentedRadialGaugeIndicator Value="120">
+                <telerik:BarIndicatorSegment Stroke="Green" Length="3"/>
+                <telerik:BarIndicatorSegment Stroke="Yellow" Length="2" />
+                <telerik:BarIndicatorSegment Stroke="Red" Length="1" />
+            </telerik:SegmentedRadialGaugeIndicator>
+        </telerik:RadRadialGauge>
+
+        <telerik:RadLinearGauge x:Name="LinearGauge" LabelStep="40" TickStep="10" MaxValue="120" Width="400" Height="50">
+            <telerik:RadLinearGauge.DataContext>
+                <local:DummyViewModel/>
+            </telerik:RadLinearGauge.DataContext>
+            <telerik:LinearBarGaugeIndicator Brush="Blue" Thickness="5" telerik:RadLinearGauge.IndicatorOffset="-10" Value="{Binding GaugeValue}"/>
+                <telerik:SegmentedLinearGaugeIndicator Value="120">
+                    <telerik:BarIndicatorSegment Stroke="Green" Length="3"/>
+                    <telerik:BarIndicatorSegment Stroke="Yellow" Length="2" />
+                    <telerik:BarIndicatorSegment Stroke="Red" Length="1" />
+                </telerik:SegmentedLinearGaugeIndicator>
+        </telerik:RadLinearGauge>
+        
+        <Grid>
+            <telerikGrid:RadDataGrid x:Name="DataGrid" Height="500" />
+        </Grid>
+    </StackPanel>
+</Page>

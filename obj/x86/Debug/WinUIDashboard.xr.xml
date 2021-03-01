@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="GaugeValue" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Microsoft.UI.Xaml.Application">
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="Microsoft.UI.Xaml.ResourceDictionary">
+      <RootProperty Name="MergedDictionaries" />
+    </RootType>
+    <RootType FullName="Microsoft.UI.Xaml.Controls.XamlControlsResources" />
+    <RootType FullName="Microsoft.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.UI.Xaml.Markup.Compiler.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Microsoft.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Telerik.UI.Xaml.Controls.DataVisualization.RadRadialGauge">
+      <RootProperty Name="LabelStep" />
+      <RootProperty Name="TickStep" />
+      <RootProperty Name="MaxValue" />
+      <RootProperty Name="LabelRadiusScale" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Indicators" />
+    </RootType>
+    <RootType FullName="Telerik.UI.Xaml.Controls.DataVisualization.RadLinearGauge">
+      <RootProperty Name="LabelStep" />
+      <RootProperty Name="TickStep" />
+      <RootProperty Name="MaxValue" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Indicators" />
+      <RootMethod Name="GetIndicatorOffset" />
+      <RootMethod Name="SetIndicatorOffset" />
+    </RootType>
+    <RootType FullName="Microsoft.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Telerik.UI.Xaml.Controls.Grid.RadDataGrid">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="WinUIDashboard.DummyViewModel" />
+    <RootType FullName="Telerik.UI.Xaml.Controls.DataVisualization.LinearBarGaugeIndicator">
+      <RootProperty Name="Brush" />
+      <RootProperty Name="Thickness" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Telerik.UI.Xaml.Controls.DataVisualization.SegmentedLinearGaugeIndicator">
+      <RootProperty Name="Value" />
+      <RootProperty Name="Segments" />
+    </RootType>
+    <RootType FullName="Telerik.UI.Xaml.Controls.DataVisualization.BarIndicatorSegment">
+      <RootProperty Name="Stroke" />
+      <RootProperty Name="Length" />
+    </RootType>
+    <RootType FullName="Microsoft.UI.Xaml.Data.Binding" />
+    <RootType FullName="Telerik.UI.Xaml.Controls.DataVisualization.ArrowGaugeIndicator">
+      <RootProperty Name="Brush" />
+      <RootProperty Name="Thickness" />
+      <RootProperty Name="ArrowTailRadius" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Telerik.UI.Xaml.Controls.DataVisualization.SegmentedRadialGaugeIndicator">
+      <RootProperty Name="Value" />
+      <RootProperty Name="Segments" />
+    </RootType>
+    <RootType FullName="WinUIDashboard.MainPage" />
+  </Roots.RootTypes>
+</Roots>

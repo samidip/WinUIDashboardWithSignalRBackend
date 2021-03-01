@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Telerik.WinUI.Controls" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240,180,140</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Telerik.WinUI.Controls">
+				<NamedResource name="Telerik.WinUI.Controls.xr.xml" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Telerik.WinUI.Controls.xr.xml">
+					<Candidate type="Path">
+						<Value>Telerik.WinUI.Controls\Telerik.WinUI.Controls.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Chart">
+					<ResourceMapSubtree name="Themes">
+						<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Chart/Themes/Generic.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesDark.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Chart/Themes/ThemeResourcesDark.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesHighContrast.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Chart/Themes/ThemeResourcesHighContrast.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesLight.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Chart/Themes/ThemeResourcesLight.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="DataVisualization">
+					<ResourceMapSubtree name="Barcode">
+						<ResourceMapSubtree name="Shared">
+							<ResourceMapSubtree name="Symbology">
+								<ResourceMapSubtree name="Symbology2D">
+									<ResourceMapSubtree name="QRCode">
+										<ResourceMapSubtree name="ISO">
+											<ResourceMapSubtree name="RawData">
+												<NamedResource name="BarSpaceSequence.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/BarSpaceSequence.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\BarSpaceSequence.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="DOSLatinUSEnc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/DOSLatinUSEnc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\DOSLatinUSEnc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="DOSLatinUSUni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/DOSLatinUSUni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\DOSLatinUSUni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO646USEnc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO646USEnc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO646USEnc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO646USUni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO646USUni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO646USUni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO885913Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO885913Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO885913Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO885913Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO885913Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO885913Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO885915Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO885915Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO885915Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO885915Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO885915Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO885915Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO88591EngEnc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO88591EngEnc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO88591EngEnc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO88591EngUni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO88591EngUni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO88591EngUni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO88592Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO88592Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO88592Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO88592Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO88592Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO88592Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_11ThaiEnc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_11ThaiEnc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_11ThaiEnc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_11ThaiUni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_11ThaiUni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_11ThaiUni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_1Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_1Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_1Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_1Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_1Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_1Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_3Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_3Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_3Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_3Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_3Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_3Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_4Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_4Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_4Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_4Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_4Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_4Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_5Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_5Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_5Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_5Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_5Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_5Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_6Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_6Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_6Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_6Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_6Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_6Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_7Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_7Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_7Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_7Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_7Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_7Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_8Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_8Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_8Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_8Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_8Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_8Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_9Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_9Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_9Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="ISO8859_9Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/ISO8859_9Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\ISO8859_9Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="KanjiShiftJS.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/KanjiShiftJS.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\KanjiShiftJS.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="KanjiUni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/KanjiUni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\KanjiUni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="LevelEightEC.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/LevelEightEC.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\LevelEightEC.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="LevelFiveEC.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/LevelFiveEC.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\LevelFiveEC.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="LevelFourEC.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/LevelFourEC.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\LevelFourEC.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="LevelOneEC.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/LevelOneEC.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\LevelOneEC.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="LevelSevenEC.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/LevelSevenEC.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\LevelSevenEC.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="LevelSixEC.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/LevelSixEC.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\LevelSixEC.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="LevelThreeEC.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/LevelThreeEC.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\LevelThreeEC.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="LevelTwoEC.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/LevelTwoEC.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\LevelTwoEC.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="Windows1250Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/Windows1250Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\Windows1250Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="Windows1250Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/Windows1250Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\Windows1250Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="Windows1251Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/Windows1251Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\Windows1251Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="Windows1251Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/Windows1251Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\Windows1251Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="Windows1252Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/Windows1252Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\Windows1252Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="Windows1252Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/Windows1252Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\Windows1252Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="Windows1256Enc.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/Windows1256Enc.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\Windows1256Enc.txt</Value>
+													</Candidate>
+												</NamedResource>
+												<NamedResource name="Windows1256Uni.txt" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Barcode/Shared/Symbology/Symbology2D/QRCode/ISO/RawData/Windows1256Uni.txt">
+													<Candidate type="Path">
+														<Value>Telerik.WinUI.Controls\DataVisualization\Barcode\Shared\Symbology\Symbology2D\QRCode\ISO\RawData\Windows1256Uni.txt</Value>
+													</Candidate>
+												</NamedResource>
+											</ResourceMapSubtree>
+										</ResourceMapSubtree>
+									</ResourceMapSubtree>
+								</ResourceMapSubtree>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Themes">
+						<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Themes/Generic.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Resources.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Themes/Resources.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesDark.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Themes/ThemeResourcesDark.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesHighContrast.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Themes/ThemeResourcesHighContrast.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesLight.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DataVisualization/Themes/ThemeResourcesLight.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="DensityStyles">
+					<NamedResource name="Compact.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/DensityStyles/Compact.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Grid">
+					<ResourceMapSubtree name="Assets">
+						<ResourceMapSubtree name="CheckBox">
+							<NamedResource name="ic_checked.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/CheckBox/ic_checked.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_checked.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_checked.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_checked.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_checked_blue.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/CheckBox/ic_checked_blue.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_checked_blue.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_checked_blue.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_checked_blue.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_unchecked.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/CheckBox/ic_unchecked.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_unchecked.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_unchecked.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_unchecked.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_unchecked_blue.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/CheckBox/ic_unchecked_blue.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_unchecked_blue.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_unchecked_blue.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\CheckBox\ic_unchecked_blue.png</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="DataOperationsControl">
+							<NamedResource name="ic_edit_header_dark.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_edit_header_dark.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_edit_header_dark.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_edit_header_dark.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_edit_header_dark.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_edit_header_light.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_edit_header_light.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_edit_header_light.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_edit_header_light.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_edit_header_light.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_filter_blue.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_filter_blue.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_filter_blue.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_filter_blue.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_filter_blue.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_filter_dark.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_filter_dark.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_filter_dark.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_filter_dark.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_filter_dark.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_filter_light.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_filter_light.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_filter_light.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_filter_light.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_filter_light.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_group_blue.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_group_blue.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_group_blue.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_group_blue.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_group_blue.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_group_dark.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_group_dark.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_group_dark.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_group_dark.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_group_dark.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_group_light.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_group_light.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_group_light.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_group_light.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_group_light.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_sort_blue.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_sort_blue.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_sort_blue.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_sort_blue.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_sort_blue.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_sort_dark.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_sort_dark.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_sort_dark.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_sort_dark.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_sort_dark.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_sort_light.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/DataOperationsControl/ic_sort_light.png">
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_sort_light.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_sort_light.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\DataOperationsControl\ic_sort_light.png</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="FilterFlyout">
+							<NamedResource name="ic_arrow_down.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/FilterFlyout/ic_arrow_down.png">
+								<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_arrow_down.scale-240.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_arrow_down.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_arrow_down.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_arrow_down.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_arrow_down_white.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/FilterFlyout/ic_arrow_down_white.png">
+								<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_arrow_down_white.scale-240.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_arrow_down_white.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_arrow_down_white.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_arrow_down_white.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_clear.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/FilterFlyout/ic_clear.png">
+								<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear.scale-240.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_clear_black.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/FilterFlyout/ic_clear_black.png">
+								<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_black.scale-240.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_black.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_black.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_black.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_clear_hover.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/FilterFlyout/ic_clear_hover.png">
+								<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_hover.scale-240.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_hover.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_hover.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_hover.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ic_clear_white.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/FilterFlyout/ic_clear_white.png">
+								<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_white.scale-240.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_white.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_white.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\FilterFlyout\ic_clear_white.png</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="Resize">
+							<NamedResource name="ic_column_resize.png" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Assets/Resize/ic_column_resize.png">
+								<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\Resize\ic_column_resize.scale-240.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\Resize\ic_column_resize.scale-180.png</Value>
+								</Candidate>
+								<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\Resize\ic_column_resize.scale-140.png</Value>
+								</Candidate>
+								<Candidate type="Path">
+									<Value>Telerik.WinUI.Controls\Grid\Assets\Resize\ic_column_resize.png</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Themes">
+						<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Themes/Generic.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Resources.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Themes/Resources.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesDark.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Themes/ThemeResourcesDark.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesHighContrast.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Themes/ThemeResourcesHighContrast.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesLight.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Grid/Themes/ThemeResourcesLight.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Input">
+					<ResourceMapSubtree name="Themes">
+						<NamedResource name="CommonResources.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Input/Themes/CommonResources.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Input/Themes/Generic.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Resources.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Input/Themes/Resources.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesDark.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Input/Themes/ThemeResourcesDark.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesHighContrast.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Input/Themes/ThemeResourcesHighContrast.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesLight.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Input/Themes/ThemeResourcesLight.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Primitives">
+					<ResourceMapSubtree name="Themes">
+						<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Primitives/Themes/Generic.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Resources.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Primitives/Themes/Resources.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SharedResources.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Primitives/Themes/SharedResources.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeColorsDark.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Primitives/Themes/ThemeColorsDark.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeColorsHighContrast.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Primitives/Themes/ThemeColorsHighContrast.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeColorsLight.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Primitives/Themes/ThemeColorsLight.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesDark.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Primitives/Themes/ThemeResourcesDark.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesHighContrast.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Primitives/Themes/ThemeResourcesHighContrast.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesLight.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Primitives/Themes/ThemeResourcesLight.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="RibbonView">
+					<ResourceMapSubtree name="Themes">
+						<NamedResource name="Backstage.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/RibbonView/Themes/Backstage.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Gallery.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/RibbonView/Themes/Gallery.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/RibbonView/Themes/Generic.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="QuickAccessToolBar.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/RibbonView/Themes/QuickAccessToolBar.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Resources.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/RibbonView/Themes/Resources.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesDark.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/RibbonView/Themes/ThemeResourcesDark.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesHighContrast.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/RibbonView/Themes/ThemeResourcesHighContrast.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ThemeResourcesLight.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/RibbonView/Themes/ThemeResourcesLight.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.WinUI.Controls/Files/Telerik.WinUI.Controls/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Telerik.WinUI.Controls">
+			<ResourceMapSubtree name="Neutral">
+				<NamedResource name="And" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/And">
+					<Candidate type="String">
+						<Value>And</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AntiqueToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/AntiqueToolText">
+					<Candidate type="String">
+						<Value>Antique</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutoCompleteNoResultsFound" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/AutoCompleteNoResultsFound">
+					<Candidate type="String">
+						<Value>No results found</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BrightnessToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/BrightnessToolText">
+					<Candidate type="String">
+						<Value>Brightness</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BusyIndicatorContent" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/BusyIndicatorContent">
+					<Candidate type="String">
+						<Value>Loading</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Cancel" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/Cancel">
+					<Candidate type="String">
+						<Value>Cancel</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CancelText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/CancelText">
+					<Candidate type="String">
+						<Value></Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CaseSensitiveMode" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/CaseSensitiveMode">
+					<Candidate type="String">
+						<Value>Case-sensitive mode is</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClearFilter" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/ClearFilter">
+					<Candidate type="String">
+						<Value>Clear Filter</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ColumnChooserHeader" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/ColumnChooserHeader">
+					<Candidate type="String">
+						<Value>All Columns</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Contains" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/Contains">
+					<Candidate type="String">
+						<Value>Contains</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ContrastToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/ContrastToolText">
+					<Candidate type="String">
+						<Value>Contrast</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CropToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/CropToolText">
+					<Candidate type="String">
+						<Value>Crop</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DataOperationsButtonFilter" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/DataOperationsButtonFilter">
+					<Candidate type="String">
+						<Value>Filter</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DataOperationsButtonGroup" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/DataOperationsButtonGroup">
+					<Candidate type="String">
+						<Value>Group by</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DataOperationsButtonSort" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/DataOperationsButtonSort">
+					<Candidate type="String">
+						<Value>Sort</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DataOperationsButtonUngroup" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/DataOperationsButtonUngroup">
+					<Candidate type="String">
+						<Value>Ungroup by</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DateEmptyContent" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/DateEmptyContent">
+					<Candidate type="String">
+						<Value>Select Date</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DateSelectorHeader" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/DateSelectorHeader">
+					<Candidate type="String">
+						<Value>Select Date</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DoesNotContain" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/DoesNotContain">
+					<Candidate type="String">
+						<Value>Does not contain</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DoesNotEqualTo" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/DoesNotEqualTo">
+					<Candidate type="String">
+						<Value>Is not equal to</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DragToGroup" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/DragToGroup">
+					<Candidate type="String">
+						<Value>Drag a column header here to group</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EndsWith" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/EndsWith">
+					<Candidate type="String">
+						<Value>Ends with</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EqualsTo" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/EqualsTo">
+					<Candidate type="String">
+						<Value>Is equal to</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="False" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/False">
+					<Candidate type="String">
+						<Value>False</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FilterButton" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/FilterButton">
+					<Candidate type="String">
+						<Value>Filter</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FilterHeader" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/FilterHeader">
+					<Candidate type="String">
+						<Value>Show rows with value that</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FlipToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/FlipToolText">
+					<Candidate type="String">
+						<Value>Flip</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GrayscaleToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/GrayscaleToolText">
+					<Candidate type="String">
+						<Value>Grayscale</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HueToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/HueToolText">
+					<Candidate type="String">
+						<Value>Hue</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IsFalse" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/IsFalse">
+					<Candidate type="String">
+						<Value>is false</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IsGreaterThan" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/IsGreaterThan">
+					<Candidate type="String">
+						<Value>Is greater than</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IsGreaterThanOrEqualTo" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/IsGreaterThanOrEqualTo">
+					<Candidate type="String">
+						<Value>Is greater than or equal to</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IsLessThan" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/IsLessThan">
+					<Candidate type="String">
+						<Value>Is less than</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IsLessThanOrEqualTo" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/IsLessThanOrEqualTo">
+					<Candidate type="String">
+						<Value>Is less than or equal to</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IsTrue" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/IsTrue">
+					<Candidate type="String">
+						<Value>is true</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LeapYear" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/LeapYear">
+					<Candidate type="String">
+						<Value>Leap Year</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LoadMoreRows" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/LoadMoreRows">
+					<Candidate type="String">
+						<Value>Load more rows</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LomoToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/LomoToolText">
+					<Candidate type="String">
+						<Value>Lomo</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MoonlightToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/MoonlightToolText">
+					<Candidate type="String">
+						<Value>Moonlight</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NegativeToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/NegativeToolText">
+					<Candidate type="String">
+						<Value>Negative</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NoAngleAxis" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/NoAngleAxis">
+					<Candidate type="String">
+						<Value>No angle axis found</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NoData" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/NoData">
+					<Candidate type="String">
+						<Value>No data found</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NoEffectToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/NoEffectToolText">
+					<Candidate type="String">
+						<Value>NoEffect</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NoHorizontalAxis" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/NoHorizontalAxis">
+					<Candidate type="String">
+						<Value>No horizontal axis found</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NoPolarAxis" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/NoPolarAxis">
+					<Candidate type="String">
+						<Value>No polar axis found</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NoSeries" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/NoSeries">
+					<Candidate type="String">
+						<Value>No series found</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NoVerticalAxis" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/NoVerticalAxis">
+					<Candidate type="String">
+						<Value>No vertical axis found</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="null" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/null">
+					<Candidate type="String">
+						<Value>[null]</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Off" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/Off">
+					<Candidate type="String">
+						<Value>off</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="OKText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/OKText">
+					<Candidate type="String">
+						<Value></Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="On" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/On">
+					<Candidate type="String">
+						<Value>on</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Or" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/Or">
+					<Candidate type="String">
+						<Value>Or</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PosterizeToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/PosterizeToolText">
+					<Candidate type="String">
+						<Value>Posterize</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RatingValueString" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/RatingValueString">
+					<Candidate type="String">
+						<Value>Rating, {0} of {1}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RotateToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/RotateToolText">
+					<Candidate type="String">
+						<Value/>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SaturationToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/SaturationToolText">
+					<Candidate type="String">
+						<Value>Saturation</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Save" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/Save">
+					<Candidate type="String">
+						<Value>Save</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SelectAll" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/SelectAll">
+					<Candidate type="String">
+						<Value>Select All</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SepiaToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/SepiaToolText">
+					<Candidate type="String">
+						<Value>Sepia</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SharpnessToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/SharpnessToolText">
+					<Candidate type="String">
+						<Value>Sharpness</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StartsWith" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/StartsWith">
+					<Candidate type="String">
+						<Value>Starts with</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TemperatureToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/TemperatureToolText">
+					<Candidate type="String">
+						<Value>Temperature</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TimeEmptyContent" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/TimeEmptyContent">
+					<Candidate type="String">
+						<Value>Select Time</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TimeSelectorHeader" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/TimeSelectorHeader">
+					<Candidate type="String">
+						<Value>Select Time</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="True" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/True">
+					<Candidate type="String">
+						<Value>True</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VibranceToolText" uri="ms-resource://Telerik.WinUI.Controls/Telerik.WinUI.Controls/Neutral/VibranceToolText">
+					<Candidate type="String">
+						<Value>Vibrance</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
